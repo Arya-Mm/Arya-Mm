@@ -46,3 +46,8 @@ jobs:
           plugin_wakatime_sections: time, projects, languages
           plugin_skyline: yes
           plugin_skyline_year: 2026
+          plugin_screenshot: yes
+          plugin_screenshot_title: Project Preview
+          plugin_screenshot_url: https://pin.it/mfnlLnXgD
+          plugin_screenshot_selector: body
+          plugin_screenshot_background: yes
