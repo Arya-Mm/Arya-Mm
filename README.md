@@ -8,8 +8,13 @@
 ## Snake
 ![Snake animation](https://raw.githubusercontent.com/Arya-Mm/Arya-Mm/output/github-contribution-grid-snake.svg)
 
-## 🧠 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=contest)
+## Competitive Programming
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aryamishra828?theme=dark)
+
+![GFG](https://geeks-for-geeks-stats-card.vercel.app/?username=aryamisnliw)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/aryamishra828)
 
 ## ⚙️ Tech Stack
 
