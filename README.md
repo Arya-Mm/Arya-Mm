@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0B,100:1A1A1A&height=220&section=header&text=ARYA%20M&fontSize=48&fontColor=EAEAEA&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Systems%20%7C%20Robotics%20Engineer&descAlignY=60&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=240&section=header&text=Arya%20M&fontSize=50&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16"/>
 </p>
 
 ## Metrics
