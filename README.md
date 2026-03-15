@@ -14,4 +14,4 @@
 
 ![GFG](https://geeks-for-geeks-stats-card.vercel.app/?username=aryamisnliw)
 
-![HackerRank](https://www.hackerrank.com/aryamishra828)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/aryamishra828)
