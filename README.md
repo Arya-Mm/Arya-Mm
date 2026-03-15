@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=240&section=header&text=Arya%20M&fontSize=50&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Automation+%26+Intelligent+Software;Machine+Learning+Engineer;Robotics+%7C+Systems+%7C+Deep+Tech"/>
 </p>
 
 ## Metrics
