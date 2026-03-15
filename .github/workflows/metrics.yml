@@ -28,6 +28,7 @@ jobs:
 
           plugin_activity: yes
           plugin_activity_limit: 5
+          plugin_activity_days: 14
           
           plugin_repositories: yes
           plugin_repositories_pinned: 6
@@ -38,6 +39,8 @@ jobs:
           
           plugin_achievements: yes
           plugin_achievements_threshold: X
+          plugin_achievements_display: detailed
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, languages
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, languages
