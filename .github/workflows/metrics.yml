@@ -47,7 +47,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_year: 2026
           plugin_screenshot: yes
-          plugin_screenshot_title: Project Preview
-          plugin_screenshot_url: https://pin.it/mfnlLnXgD
+          plugin_screenshot_title: Current Mood
+          plugin_screenshot_url: https://i.pinimg.com/736x/b1/4a/50/b14a5070737e7195a6838cb15b052193.jpg
           plugin_screenshot_selector: body
           plugin_screenshot_background: yes
