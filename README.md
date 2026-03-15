@@ -10,3 +10,14 @@
 
 ## 🧠 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=contest)
+
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+## 🚀 Featured Projects
+
+[![AI Research Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Arya-Mm&repo=Goggins&theme=tokyonight)](https://github.com/Arya-Mm/Goggins)
