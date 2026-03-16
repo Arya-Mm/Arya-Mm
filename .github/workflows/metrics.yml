@@ -72,4 +72,4 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: Current Mood
           plugin_screenshot_url: https://i.pinimg.com/736x/b1/4a/50/b14a5070737e7195a6838cb15b052193.jpg
-          plugin_screenshot_background: yes
+          plugin_screenshot_background: no
